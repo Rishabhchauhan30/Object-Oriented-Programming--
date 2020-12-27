@@ -38,7 +38,7 @@ to functional-programming style, logic-programming style, or procedure-based
 programming style, and applying object-oriented programming in those situations will
 not result in efficient programs.
 
-## *Object
+# *Object
 Objects are the basic run-time entities in an object-oriented system. Programming problem is analyzed in terms of objects and nature of communication between them. When a program is executed, objects interact with each other by sending messages. Different objects can also interact with each other without knowing the details of their data or code.
 
 An object is an instance of a class. A class must be instantiated into an object before it can be used in the software. More than one instance of the same class can be in existence at any one time.
