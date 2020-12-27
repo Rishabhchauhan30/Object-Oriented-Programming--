@@ -45,3 +45,8 @@ An object is an instance of a class. A class must be instantiated into an object
 
 ## *Class
 A class is a collection of objects of a similar type. Once a class is defined, any number of objects can be created which belong to that class. A class is a blueprint, or prototype, that defines the variables and the methods common to all objects of a certain kind.
+
+## *Instance
+The instance is the actual object created at runtime. One can have an instance of a class or a particular object.
+
+
